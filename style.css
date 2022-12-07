@@ -8,7 +8,7 @@
 section{
     width: 100%;
     height: 100vh;
-    background-image: url(img/bg.lnk);
+    background-image: url(bg.lnk);
     background-size: cover;
     background-position: center;
 }
